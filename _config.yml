@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Serpent Med
-subtitle: A medical student's guide to surviving and succeeding in medical school.
+subtitle: Med School Guide
 description: >- # this means to ignore newlines until "baseurl:"
   A medical student's guide to surviving and succeeding in medical school.
 author: Serpent Med
@@ -39,7 +39,7 @@ email: serpentmedical@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
